@@ -1,0 +1,17 @@
+1	Send	V	5	dep	
+2	my	D	4	poss	
+3	wife	N	4	nn	
+4	flowers	N	1	dobj	
+5	.	,	0	root
+
+1	I	O	3	nsubj	
+2	would	V	3	aux	
+3	like	V	0	root	
+4	to	P	5	aux	
+5	send	V	3	xcomp	
+6	flowers	N	5	dobj	
+7	to	P	5	prep	
+8	my	D	9	poss	
+9	wife	N	7	pobj	
+10	.	,	3	punct
+
