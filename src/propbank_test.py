@@ -9,7 +9,7 @@ if __name__=='__main__':
     pb_instances=propbank.instances()
     #print(pb_instances)
     instance=pb_instances[n]
-    #print instance.roleset,instance.predicate,instance.arguments
+    print instance.roleset,instance.predicate,instance.arguments
 
     send_01=propbank.roleset('send.01')
     for role in send_01.findall("roles/role"):
